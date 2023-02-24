@@ -2,7 +2,7 @@
 - 👀 深信服优秀员工
 - 🌱 威海市某演练 优秀攻击手
 - 💞️ 国家某演练 蓝队
-- 📫 联系方式：jubao@sangfor.com.cn
+- 📫 联系方式：Gaozhiwei@sangfor.com.cn
 
 <!---
 weishen250/weishen250 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
